@@ -1,6 +1,6 @@
 {
     "version": "2.1.0",
-    "download_url": "https://github.com/你的用户名/仓库名/releases/download/v2.1.0/DR02_Tool.exe",
+    "download_url": "https://github.com/wyhhui/robot_tool/releases/tag/beta/DR02_Tool_v2.1.0.exe",
     "md5": "",
     "release_notes": "1. 新增 WebSocket 终端\n2. 优化快捷命令显示\n3. 修复已知问题",
     "force_update": false
